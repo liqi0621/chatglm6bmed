@@ -1,0 +1,7 @@
+ChatGLM-6B/ptuning/train.json filter=lfs diff=lfs merge=lfs -text
+output_med2/adgen-chatglm-6b-pt-128-1e-2/checkpoint-1000/optimizer.pt filter=lfs diff=lfs merge=lfs -text
+output_med2/adgen-chatglm-6b-pt-128-1e-2/checkpoint-1000/pytorch_model.bin filter=lfs diff=lfs merge=lfs -text
+output_med2/adgen-chatglm-6b-pt-128-1e-2/checkpoint-2000/optimizer.pt filter=lfs diff=lfs merge=lfs -text
+output_med2/adgen-chatglm-6b-pt-128-1e-2/checkpoint-2000/pytorch_model.bin filter=lfs diff=lfs merge=lfs -text
+output_med2/adgen-chatglm-6b-pt-128-1e-2/checkpoint-3000/optimizer.pt filter=lfs diff=lfs merge=lfs -text
+output_med2/adgen-chatglm-6b-pt-128-1e-2/checkpoint-3000/pytorch_model.bin filter=lfs diff=lfs merge=lfs -text
